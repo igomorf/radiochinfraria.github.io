@@ -1,8 +1,6 @@
 ## Bem-Vindos à Rádio Chinfraria
 
 <center>
-<h2 class="post-title" itemprop="name">Rádio Chinfraria</h2></a>
-
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
@@ -24,7 +22,6 @@ MRP.insert({
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 
 <p>Aperta play que só toca pedrada...</p>
-
 </center>
 
 

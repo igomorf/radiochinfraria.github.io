@@ -1,8 +1,36 @@
-## Welcome to GitHub Pages
+## Bem-Vindos à Rádio Chinfraria
 
-You can use the [editor on GitHub](https://github.com/RadioChinfraria/radiochinfraria.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<center>
+<h2 class="post-title" itemprop="name">Rádio Chinfraria</h2></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'https://freeuk9.listen2myradio.com/live.mp3?typeportmount=s1_24979_stream_881946623',
+'lang':'pt',
+'codec':'mp3',
+'volume':80,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'',
+'wmode':'transparent',
+'skin':'cassette',
+'width':200,
+'height':120
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+<p>Aperta play que só toca pedrada...</p>
+
+</center>
+
+
+A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica. Ajude-nos, compartilhe, passe adiante essa ideia!
+
+
 
 ### Markdown
 

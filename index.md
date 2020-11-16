@@ -22,7 +22,7 @@ MRP.insert({
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 
-<p><h1>Aperta play que só toca pedrada...</h1></p>
+<p><h3>Aperta play que só toca pedrada...</h3></p>
 </center>
 
 

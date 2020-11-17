@@ -1,5 +1,5 @@
 
-<div style="font-size:30px;font-style:bold;text-align:center">        
+<div style="font-size:26px;font-style:bold;text-align:center">        
 Bem-Vindos à Rádio Chinfraria!
 </div>  
 <center>

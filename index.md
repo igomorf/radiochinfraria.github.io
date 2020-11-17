@@ -28,20 +28,15 @@ MRP.insert({
 
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica. Ajude-nos, compartilhe, passe adiante essa ideia!
 
-<head>
-    ...
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-    ...
-</head>
-<body>
-    ...
-    <div id="vcomment"></div>
-    <script>
-        new Valine({
-            el: '#vcomment' ,
-            appId: 'S55sKc4p7mC4kSdJIGNP0iX4-MdYXbMMI',
-            appKey: 'EQbOiroG9VBgyAzLi0ewvOz8'
-        });
-    </script>
-</body>
+<link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>

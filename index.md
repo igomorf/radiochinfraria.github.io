@@ -33,7 +33,10 @@ A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso 
 </p>
 
 <p>
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fradiochinfraria%2Fposts%2F114094493847036&show_text=true&width=552&height=186&appId" width="552" height="186" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+ <div class="fb-post" data-href="https://www.facebook.com/radiochinfraria/posts/114094493847036" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/radiochinfraria/posts/114094493847036" class="fb-xfbml-parse-ignore"><p>Comunique-se! Escreva algo para a Rádio Chinfraria por aqui! 🤘😏</p>Publicado por <a href="https://www.facebook.com/radiochinfraria/">Rádio Chinfraria</a> em&nbsp;<a href="https://www.facebook.com/radiochinfraria/posts/114094493847036">Segunda-feira, 16 de novembro de 2020</a></blockquote></div>
 </p> 
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">COMUNIQUE-SE... Mande seu recado para a RÁDIO CHINFRARIA por aqui... 🤟😉</p>&mdash; Rádio Chinfraria (@chinfraria) <a href="https://twitter.com/chinfraria/status/1328581746275868672?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v9.0" nonce="HJxBESw8"></script>

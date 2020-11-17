@@ -1,5 +1,7 @@
 
+<div style="text-align: center;">
 ## Bem-Vindos à Rádio Chinfraria!
+</div>  
 <center>
 
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->

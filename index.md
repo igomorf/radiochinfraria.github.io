@@ -2,6 +2,7 @@
 <div style="font-size:26px;font-style:bold;text-align:center">        
 Bem-Vindos à Rádio Chinfraria!
 </div>  
+<p></p>
 <center>
 
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->

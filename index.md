@@ -35,8 +35,8 @@ A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso 
 
 <script>
   var remark_config = {
-    host: "REMARK_URL", // hostname of remark server, same as REMARK_URL in backend config, e.g. "https://demo.remark42.com"
-    site_id: 'YOUR_SITE_ID',
+    host: "https://demo.remark42.com", // hostname of remark server, same as REMARK_URL in backend config, e.g. "https://demo.remark42.com"
+    site_id: 'radiochinfraria',
     components: ['embed'], // optional param; which components to load. default to ["embed"]
                            // to load all components define components as ['embed', 'last-comments', 'counter']
                            // available component are:

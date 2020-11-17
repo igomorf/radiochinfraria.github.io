@@ -28,11 +28,11 @@ MRP.insert({
 
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica. Ajude-nos, compartilhe, passe adiante essa ideia!
 
-//segue o código para buscar a função do sistema de comentários
+
 <div id="remark42"></div>
 
 
-//sistema de comentários (script)
+
 <script>
   var remark_config = {
     host: "REMARK_URL", // hostname of remark server, same as REMARK_URL in backend config, e.g. "https://demo.remark42.com"

@@ -30,6 +30,6 @@ MRP.insert({
 
 <p>
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica. Ajude-nos, compartilhe, passe adiante essa ideia!
-
-
 </p>
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">COMUNIQUE-SE... Mande seu recado para a RÁDIO CHINFRARIA por aqui... 🤟😉</p>&mdash; Rádio Chinfraria (@chinfraria) <a href="https://twitter.com/chinfraria/status/1328581746275868672?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
